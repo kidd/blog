@@ -17,6 +17,7 @@ These links are what I currently have in mind when I think about good code, and 
 - https://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html?m=1 (an example of https://www.oilshell.org/blog/2022/02/diagrams.html)
 - A plea for Lean Software https://news.ycombinator.com/item?id=27661559 https://cr.yp.to/bib/1995/wirth.pdf
 - pg https://www.paulgraham.com/taste.html
+- Dewey vs Izzy: https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf
 
 And some talks:
 - michael feathers unconditional code https://www.youtube.com/watch?v=AnZ0uTOerUI
