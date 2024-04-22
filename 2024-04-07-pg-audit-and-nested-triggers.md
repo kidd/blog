@@ -1,4 +1,4 @@
-----
+---
 title: pg_audit and nested triggers to materialize a version table
 categories: [postgresql]
 ---
