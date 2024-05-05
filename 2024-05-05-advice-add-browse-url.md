@@ -10,7 +10,7 @@ For example, when browsing code/data in the repo/repl/shell/db, if you
 use stripe, you find those "tagged_ids" like `cus_123`, `sub_123`....
 
 With this little trick here, we can advice the browse-url function so
-that we ammend the url path depending on a pattern matching result.
+that we amend the url path depending on a pattern matching result.
 
 ```elisp
 ;;; (keymap-global-set "C-c o" 'browse-url-at-point)
