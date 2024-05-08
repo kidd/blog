@@ -101,3 +101,5 @@ a random uuid, and also the timestamp.
 
 The usage of `jsonb_populate_record` is in an [implicit lateral
 join](https://stackoverflow.com/questions/36127801/jsonb-populate-record-jsonb-populate-recordset-should-return-a-table).
+
+EXTRA: Did you know that pg17 will have something for bitemporality? https://hdombrovskaya.wordpress.com/2024/05/05/3937/
