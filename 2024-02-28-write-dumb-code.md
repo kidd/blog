@@ -5,6 +5,7 @@ categories: [programming]
 
 Here's an interesting thread on "write dumb code" and why it's not always
 clear what "dumb code" is: https://news.ycombinator.com/item?id=39503777.
+Another example https://news.ycombinator.com/item?id=40434766.
 
 Of course, the subject is more complex than that, and very subjective
 (ha, ha).
@@ -24,9 +25,12 @@ I have 2 modes of programming:
   for a very powerful tool that can allow me to solve these, and
   potentially much more related problems.
 
-
 But I try to not have many layers. I like to have 2. A bit like
 suckless bash and C.
+
+Related to the second point, it reminds of an Alan Kay Quote (from the [second thread above](https://news.ycombinator.com/item?id=40435485).):
+
+    one of the things that's worked the best the last three, or four hundred years, is you get simplicity by finding a slightly more sophisticated building block to build your theories out of. its when you go for a simple building block that anybody understand through common sense, that is when you start screwing yourself right and left, because it just might not be able to ramify through the degrees of freedom and scaling you have to go through, and it's this inability to fix the building blocks that is one of the largest problems that computing has today in large organizations. people just won't do it
 
 UNRELATED INSIGHT:
 TCP/IP, on the other hand, gets more robust when higher in the scale,
