@@ -18,6 +18,8 @@ These links are what I currently have in mind when I think about good code, and 
 - A plea for Lean Software https://news.ycombinator.com/item?id=27661559 https://cr.yp.to/bib/1995/wirth.pdf
 - pg https://www.paulgraham.com/taste.html
 - Dewey vs Izzy: https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf
+- https://news.ycombinator.com/item?id=40428386 Density in UI
+- https://news.ycombinator.com/item?id=40434766 Stupid code vs clever code... lots of acshuallys in the comments
 
 And some talks:
 - michael feathers unconditional code https://www.youtube.com/watch?v=AnZ0uTOerUI
