@@ -38,6 +38,10 @@ Rings a bell that `in` in sql has weird performance characteristics
 when nils are involved. In praticular, `not in` has weird properties
 when nils are allowed (or part of the query, can't remember).
 
+Also, the question from seeing this is: "and what if I want to find
+values `in ('foo','bar',null)`?".  In that case, you use `x in
+('foo','bar') or is x null`. Amazing ternary logic, eh?
+
 But `explain analyze` tells us that postgres is able to shortcut the
 query when it sees `in (null)`. Fantastic!
 
