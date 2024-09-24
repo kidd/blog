@@ -13,7 +13,6 @@ So, in clojure, this is a pattern we use to guard toucan from jumping into the e
 (let [addon-products (when (not-empty addon-types)
                        (tdb/select Product
                                    :product-type [:in addon-types]
-                                   :period (:period base-product)
                                    :active true))]
 ```
 
@@ -24,7 +23,6 @@ But it sucks in multiple ways. So I wanted to get a shorter way. Here's one:
     (and (seq product-types)
     (tdb/select Product
        :product-type [:in product-types]
-       :period "yearly"
        :active true)))
 ```
 
@@ -33,7 +31,6 @@ But wait, ther's also this way, which I think it's the coolest one.
 ```clojure
 (tdb/select Product
    :product-type [:in (or (seq product-types) [nil])]
-   :period "yearly"
    :active true))
 ```
 
@@ -62,7 +59,6 @@ As a bonus, here's how you'd do the case of filtering in usual UI, where "empty 
 ```clojure
 (let [product-types []]
  (m/mapply tdb/select Product
-           :period "yearly"
            :active true
            (when (seq product-types) {:product-type [:in product-types]})))
 ```
