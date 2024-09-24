@@ -20,8 +20,13 @@ These links are what I currently have in mind when I think about good code, and 
 - Dewey vs Izzy: https://www.dyalog.com/uploads/documents/Papers/declarative_prog.pdf
 - https://news.ycombinator.com/item?id=40428386 Density in UI
 - https://news.ycombinator.com/item?id=40434766 Stupid code vs clever code... lots of acshuallys in the comments
+- https://news.ycombinator.com/item?id=41501175 overengineering
+- https://caseymuratori.com/blog_0015 semantic compression
+- https://blog.wilsonb.com/posts/2023-07-24-suggestivity-and-idioms.html
+- https://news.ycombinator.com/item?id=41505389 why not comments
 
 And some talks:
 - michael feathers unconditional code https://www.youtube.com/watch?v=AnZ0uTOerUI
 - avdi grimm confident code https://www.youtube.com/watch?v=T8J0j2xJFgQ
 - Sandi Metz 2 great great talks https://www.youtube.com/watch?v=OMPfEXIlTVE https://www.youtube.com/watch?v=8bZh5LMaSmE
+- Jose Valim on patterns https://www.youtube.com/watch?v=agkXUp0hCW8
