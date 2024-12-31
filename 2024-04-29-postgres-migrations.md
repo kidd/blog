@@ -14,3 +14,4 @@ postrgres schema migrations and schema design in general.
 - https://notso.boringsql.com/posts/how-not-to-change-postgresql-column-type/
 - https://news.ycombinator.com/item?id=40580549
 - https://kb.databasedesignbook.com/posts/google-calendar/
+- https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/
