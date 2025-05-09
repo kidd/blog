@@ -1,6 +1,6 @@
 ---
 title: sql "in empty list"
-categories: sql,clojure
+categories: [sql,clojure]
 ---
 
 If you try `select * from foo where id in ()`, you'll get the error `ERROR:  42601: syntax error at or near ")"`.
