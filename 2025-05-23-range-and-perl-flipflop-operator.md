@@ -12,7 +12,7 @@ range() {
 }
 ```
 
-This uses the great range operator. And that operator deserves a few mentions/examples
+This uses the great "flip flop" operator. And that operator deserves a few mentions/examples
 
 You can use it to print:
 
