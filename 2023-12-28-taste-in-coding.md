@@ -62,8 +62,10 @@ These links are what I currently have in mind when I think about good code, and 
 - https://maintainable.fm/episodes/noemi-vanyi-only-fix-problems-that-are-actually-problems
 - https://developer.porn/posts/arguments-against-static-typing/
 - https://aidancully.blogspot.com/2014/07/sources-of-accidental-complexity.html
+- https://chrlschn.dev/blog/2025/05/beware-the-complexity-merchants/
 - https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks#conclusion
 - https://swizec.com/blog/writing-software-is-like-kicking-a-can/
+- https://news.ycombinator.com/item?id=43971177 working at google and complexity
 
 
 And some talks:
@@ -88,3 +90,5 @@ https://medium.com/mr-plan-publication/programmings-sacred-cows-how-best-practic
 
 senior:
 https://utopianengineeringsociety.substack.com/p/new-series-underrated-soft-skills
+https://boydkane.com/essays/experts https://www.reddit.com/r/programming/comments/1knu1w1/senior_devs_arent_just_faster_theyre_dodging/
+https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html & https://news.ycombinator.com/item?id=44013157
