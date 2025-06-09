@@ -16,7 +16,7 @@ up, seeing the upper line of `<` like a line chart that goes up (📈).
 
 
 The advantage is that when you see `<`, it's easy to think "growing
-series elements".
+series elements", "from small to big",....
 
 ```clojure
 (< -1 0 2 ##Inf)

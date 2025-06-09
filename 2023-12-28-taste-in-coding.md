@@ -66,7 +66,8 @@ These links are what I currently have in mind when I think about good code, and 
 - https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks#conclusion
 - https://swizec.com/blog/writing-software-is-like-kicking-a-can/
 - https://news.ycombinator.com/item?id=43971177 working at google and complexity
-
+- https://scharenbroch.dev/blog/hacking-is-necessary/
+- https://articles.pragdave.me/p/premature-design-is-not-design
 
 And some talks:
 - michael feathers unconditional code https://www.youtube.com/watch?v=AnZ0uTOerUI
