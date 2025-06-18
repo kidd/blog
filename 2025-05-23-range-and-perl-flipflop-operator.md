@@ -22,6 +22,7 @@ You can use it to print:
 - `range /begin/..4`                       # from a matching to another line
 - `range /begin/../bar/`                   # from a matching to another line (and flipflop)
 - `range /begin/../bar/ && exit`           # from a matching to another line (and exit)
+- `range /foo/...exit`                     # print the first line with "foo" (and exit)
 - `range '1../^$/ && ++$a==5 && exit`      # print the first 5 paragraphs
 - `range '(split)[1]=~"skipped"'`          # if it's by spaces
 - `range '(split "	")[5]!~"push"'`        # tabs
