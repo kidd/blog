@@ -20,3 +20,19 @@ clipboard. What's really happening is that we pipe the output to
 `pbcopy`. So there's 2 cool things here: the fact that you can pipe
 the output to a shell command, and the fact that `pbcopy` and `xclip`
 exist.
+
+EDIT: It seems that `;` can't be used when combined with a pipe, so if
+you want to do the `select 1 \o |pbcopy;` trick, it has to be done like this:
+
+```
+\o |pbcopy
+select 1;
+\o
+```
+or 
+```
+select 1 \o |pbcopy
+;
+\o
+```
+I'd swear I had the leaner solution working, but 🤷‍♂️
