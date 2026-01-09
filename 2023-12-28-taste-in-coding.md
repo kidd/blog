@@ -93,3 +93,26 @@ senior:
 https://utopianengineeringsociety.substack.com/p/new-series-underrated-soft-skills
 https://boydkane.com/essays/experts https://www.reddit.com/r/programming/comments/1knu1w1/senior_devs_arent_just_faster_theyre_dodging/
 https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html & https://news.ycombinator.com/item?id=44013157
+
+
+- https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/
+- https://lewiscampbell.tech/blog/250718.html  NIH Is Far Cheaper Than The Wrong Dependency
+
+Workflows:
+- https://www.tomdalling.com/blog/mentoring/work-in-thin-vertical-slices/
+
+billinng
+- https://www.dmitry.ie/2024/why-building-billing-systems-is-so-painful
+- https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/
+-
+
+https://strategizeyourcareer.com/p/how-software-engineers-make-productive-decisions
+
+- https://corrode.dev/blog/simple/
+https://strategizeyourcareer.com/p/how-software-engineers-make-productive-decisions
+https://theaxolot.wordpress.com/2025/09/10/be-an-agnostic-programmer/
+https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/
+
+- https://tn1ck.com/blog/how-i-stopped-worrying-and-learned-to-love-the-easy-fix
+
+- https://read.perspectiveship.com/p/the-root-cause-fallacy
