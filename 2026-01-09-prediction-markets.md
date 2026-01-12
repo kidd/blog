@@ -1,6 +1,6 @@
 ---
 title: prediction markets
-categories:[]
+categories: []
 ---
 
 I recenlty discovered the concept of "prediction markets", and I still can't get over the ramifications it has.
