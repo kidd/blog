@@ -10,6 +10,7 @@ First it sounded like a dumb place for ppl to gamble on random things. ha ha ha,
 But wait....
 - [A prediction market user made $436k betting on Maduro's downfall ](https://news.ycombinator.com/item?id=46508582)
 - [Leavitt's abrupt stage exit triggers 'insider trading' accusations in prediction markets](https://www.rawstory.com/karoline-leavitt-2674858929/)
+- https://www.jbecker.dev/research/prediction-market-microstructure & https://news.ycombinator.com/item?id=46680515
 
 Which led me to this CIA paper (I still understand only a little part,
 because it belongs to a whole new universe to me) that speaks about
