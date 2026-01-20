@@ -11,6 +11,7 @@ But wait....
 - [A prediction market user made $436k betting on Maduro's downfall ](https://news.ycombinator.com/item?id=46508582)
 - [Leavitt's abrupt stage exit triggers 'insider trading' accusations in prediction markets](https://www.rawstory.com/karoline-leavitt-2674858929/)
 - https://www.jbecker.dev/research/prediction-market-microstructure & https://news.ycombinator.com/item?id=46680515
+- https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/ & https://news.ycombinator.com/item?id=46689143
 
 Which led me to this CIA paper (I still understand only a little part,
 because it belongs to a whole new universe to me) that speaks about
