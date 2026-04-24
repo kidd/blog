@@ -24,3 +24,7 @@ A nice intro to prediction markets from [Interpreting the predictions of predict
 
     Prediction markets are futures markets in which prices are used to predict future events. Consider an all-or-nothing contract paying a dollar if a specified event occurs and nothing otherwise. Proponents of prediction markets have interpreted the price of such a contract as a “market probability;” that is, a market-generated likelihood that the event will occur. Yet the arguments for this interpretation have been imprecise.
     Introducing the Iowa Electronic Markets (IEM) to the research community, Forsythe et al. (1992) sought authority in Hayek (1945), who argued broadly but vaguely that market prices aggregate information. Hayek put it this way (p. 526): “The mere fact that there is one price for a commodity …. brings about the solution which …. might have been arrived at by one single mind possessing all the information which is in fact dispersed among all the people involved in the process.”
+
+
+
+UPDATE: Turns out the guy that made $400k has been caught https://news.ycombinator.com/item?id=47882645
